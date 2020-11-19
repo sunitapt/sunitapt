@@ -16,6 +16,9 @@
 <a href="https://www.instagram.com/_patil_sunita_510/">
   <img align="left" alt="Sunita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="mailto:sunita.patil18@vit.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"/>
+</a> 
   
   
   <br/>
