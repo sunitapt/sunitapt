@@ -27,7 +27,7 @@
 
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/sunita-patil-631641180/)
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Flutter / Java 
