@@ -30,11 +30,11 @@
 
  <a href="https://sunitapt.github.io/portfolio/#/"></a> 
   
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/sunita-patil-631641180/)
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Flutter / Java 
+- 🤔 I’m looking for help with Flutter.
+- 💬 Ask me about Flutter / Java / React / Node
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sunita-patil-631641180/)
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: 
